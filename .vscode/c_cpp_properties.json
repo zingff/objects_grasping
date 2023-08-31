@@ -1,0 +1,59 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zing/mealAssistiveRobot/sla_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/door_open/admittance_controller_d/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/apriltag/apriltag_ros/apriltag_ros/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/BehaviorTree.CPP/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/door_open/door_open_task/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/ros_kortex/third_party/gazebo-pkgs/gazebo_grasp_plugin/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/ros_kortex/third_party/gazebo-pkgs/gazebo_version_helpers/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/object_grasping/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/ros_kortex_vision/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/ros_kortex/kortex_driver/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/kortex_motion_planning/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/kortex_utilities/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/object_detection/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/ros_kortex/third_party/roboticsgroup_upatras_gazebo_plugins/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/ruckig/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/sla_feeding/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract_planning/tesseract_command_language/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_common/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_environment/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract_planning/tesseract_examples/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_geometry/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract_ros/tesseract_monitoring/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract_ros/tesseract_planning_server/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract_ros/tesseract_rosutils/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract_ros/tesseract_rviz/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_scene_graph/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_srdf/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_state_solver/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_support/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract_planning/tesseract_task_composer/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_urdf/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/tesseract/tesseract_visualization/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/trajopt/trajopt/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/trajopt/trajopt_ifopt/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/trajopt/trajopt_sco/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/trajopt/trajopt_optimizers/trajopt_sqp/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/trajopt/trajopt_utils/include/**",
+        "/home/zing/mealAssistiveRobot/sla_ws/src/tesseract/trajopt/trajopt_ext/vhacd/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
