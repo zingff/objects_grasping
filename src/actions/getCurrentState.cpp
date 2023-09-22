@@ -1,5 +1,9 @@
 #include "manipulation_class.hpp"
 
+/**
+ * @brief This function will get current states such as joint position and Cartesian pose of the manipulator
+ * 
+ */
 void Manipulation::getCurrentState()
 {
 

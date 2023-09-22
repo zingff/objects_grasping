@@ -1,5 +1,13 @@
 #include "manipulation_class.hpp"
 
+/**
+ * @brief This function is a utility to get the homogeneous transform (4*4) from source_frame to target_frame
+ * 
+ * @param listener a tf::TransformListener defined globally
+ * @param target_frame 
+ * @param source_frame 
+ * @return tf::StampedTransform 
+ */
 tf::StampedTransform Manipulation::getTransform(
                           tf::TransformListener & listener,std::string target_frame,
                           std::string source_frame)

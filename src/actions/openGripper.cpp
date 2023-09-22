@@ -1,5 +1,9 @@
 #include "manipulation_class.hpp"
 
+/**
+ * @brief This function will open the gripper.
+ * 
+ */
 void Manipulation::open_gripper()
 {
     this->gripper_cmd.goal.command.position = 0;

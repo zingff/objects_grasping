@@ -1,5 +1,9 @@
 #include "manipulation_class.hpp"
 
+/**
+ * @brief This function move the manipulator to a deisred Catersian pose, and the desired pose is given by this->target_pose
+ * 
+ */
 void Manipulation::plan_pose_goal()
 {
     this->move_group_ptr->setPoseTarget(this->target_pose);

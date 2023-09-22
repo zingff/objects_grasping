@@ -1,4 +1,10 @@
 #include "manipulation_class.hpp"
+
+/**
+ * @brief this function will rotate the last joint of the manipulator for a given angle.
+ * 
+ * @param rotate_angle in radian
+ */
 void Manipulation::lastJointRotation(double rotate_angle)
 {
   getCurrentState();

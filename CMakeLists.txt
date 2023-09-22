@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(gpd_pick_and_place)
+project(gpd_pick_and_place_bak_1)
 
 set(CMAKE_CXX_STANDARD 14)
 

@@ -1,6 +1,10 @@
 #include "manipulation_class.hpp"
 
-void Manipulation::godown()
+/**
+ * @brief This function will move the manipulator to a place the grasped object. Note that this function is similar to Manipulation::move().
+ * 
+ */
+void Manipulation::goDown()
 {
   getCurrentState();
   ROS_INFO("Moving to snapshot Position");

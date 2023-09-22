@@ -1,5 +1,9 @@
 #include "manipulation_class.hpp"
 
+/**
+ * @brief This function moves the manipulator to the initial position before grasping. Note that this function is similar to Manipulation::move().
+ * 
+ */
 void Manipulation::goTop()
 {
     getCurrentState();
